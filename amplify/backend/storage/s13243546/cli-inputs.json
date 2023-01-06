@@ -1,0 +1,14 @@
+{
+  "resourceName": "s13243546",
+  "policyUUID": "37472732",
+  "bucketName": "bucket13243546",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger6d891211",
+  "groupAccess": {}
+}
